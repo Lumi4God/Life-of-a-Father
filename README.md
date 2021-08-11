@@ -43,7 +43,7 @@ table
 | --------------| -------------| --------------|
 | table data    | table data   | table data    |
 | --------------| -------------| --------------|
-| best father   | best father  | best father   |     |
+| best father   | best father  | best father   |     
 
 
 ``` code of life ```
