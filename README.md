@@ -40,7 +40,7 @@ links:
 table
 
 | table heading | table hading | table heading |
-| --------------| -------------| --------------|
+| --------------| my father | --------------|
 | table data    | table data   | table data    |
 | --------------| -------------| --------------|
 | best father   | best father  | best father   |     |
