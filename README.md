@@ -1,6 +1,6 @@
 # Creating and writting a README.md file on GitHub
 
-# Life-of-a-Father
+# Mark-up
 ## This is the head of d family
 **Bold** __Bold
 *italic* _italic
